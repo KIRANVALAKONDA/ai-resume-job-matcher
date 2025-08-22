@@ -23,3 +23,14 @@ An AI platform that parses resumes (NLP) and matches them with job postings.
 4. Deployment + CI/CD + Docs
 
 ## Structure
+resume-job-matcher/
+├── backend/ # Django backend (Week 1–2)
+├── ai-service/ # FastAPI AI microservice (Week 1–2)
+├── frontend/ # React app (Week 2–3)
+├── database/ # SQL/migrations (optional)
+├── docs/ # Design & API docs
+├── .github/ # Issue/PR templates, workflows
+├── .gitignore
+├── .editorconfig
+├── LICENSE
+└── README.md
