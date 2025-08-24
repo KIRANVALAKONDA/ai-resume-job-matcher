@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <body>
+    <h1>AI Resume Job Matcher</h1>
+    <textarea id="job" rows="6" cols="60" placeholder="Paste job description"></textarea><br/>
+    <textarea id="resume" rows="6" cols="60" placeholder="Paste resume text"></textarea><br/>
+    <button onclick="match()">Match</button>
+    <pre id="out"></pre>
+    <script>
+      async function match(){
+        const res = await fetch('/match',{method:'POST',headers:{'Content-Type':'application/json'},
+          body: JSON.stringify({job_text: job.value, resume_text: resume.value})});
+        out.textContent = JSON.stringify(await res.json(), null, 2);
+      }
+    </script>
+  </body>
+</html>
