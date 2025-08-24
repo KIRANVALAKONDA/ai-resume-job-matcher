@@ -1,0 +1,4 @@
+Name: Michael Johnson
+Skills: Java, Spring Boot, REST APIs, SQL, Docker
+Experience: 4 years as Backend Developer at FinTech Solutions
+Education: M.Sc. in Computer Science

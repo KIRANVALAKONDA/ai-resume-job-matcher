@@ -1,0 +1,4 @@
+Name: Alice Smith
+Skills: JavaScript, React, Node.js, HTML, CSS
+Experience: 2 years as Frontend Developer at WebTech
+Education: B.Sc. in Software Engineering

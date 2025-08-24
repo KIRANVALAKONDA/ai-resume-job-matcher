@@ -1,0 +1,4 @@
+Name: John Doe
+Skills: Python, Machine Learning, Data Analysis, SQL
+Experience: 3 years as Data Analyst at XYZ Corp
+Education: B.Sc. in Computer Science

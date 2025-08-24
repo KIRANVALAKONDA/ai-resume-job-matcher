@@ -1,0 +1,4 @@
+Name: David Brown
+Skills: AWS, Azure, Linux, Networking, DevOps, CI/CD
+Experience: 3 years as Cloud Engineer at CloudServe
+Education: B.Sc. in Information Technology
