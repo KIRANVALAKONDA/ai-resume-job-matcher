@@ -1,0 +1,4 @@
+Name: John Doe
+Skills: Python, Flask, Machine Learning, SQL
+Experience: 2 years in data analysis and backend development
+Education: B.Tech Computer Science
